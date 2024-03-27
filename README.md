@@ -16,4 +16,4 @@ img-purge is a command-line tool designed to help you keep your web projects cle
 You can install img-purge globally using npm: npm i -g purge-unused-images
 
 ## Usage
-To use img-purge, simply run the img-purge command in your terminal: img-purge
+To use img-purge, simply run the img-purge command in your terminal: npx img-purge (imagetype) Ex: npx img-purge png
